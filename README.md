@@ -43,16 +43,4 @@ All simulation results are located in the **`results/`** folder.
 ### Input Matching
 ![Input Matching](results/input_matching.png)
 
----
-
-## Project Notes
-
-- **Technology**: gpdk 90 nm CMOS  
-- **Topology**: Cascode Common-Gate (CG) LNA  
-- **Biasing**: Optimized for 1 V low-power operation  
-- **Target Application**: 2.4 GHz ISM band (e.g., Wi-Fi, Bluetooth, IoT)
-
----
-
-## Folder Structure
 
